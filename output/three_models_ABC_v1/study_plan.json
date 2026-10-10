@@ -1,0 +1,51 @@
+{
+  "providers": [
+    "deepseek",
+    "doubao",
+    "qwen"
+  ],
+  "configs": {
+    "deepseek": {
+      "model": "deepseek-flash",
+      "base_url": "https://api.deepseek.com",
+      "extra_body": {
+        "thinking": {
+          "type": "disabled"
+        }
+      },
+      "token_parameter": "max_tokens"
+    },
+    "doubao": {
+      "model": "doubao-seed-2-0-lite-260428",
+      "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+      "extra_body": {
+        "thinking": {
+          "type": "disabled"
+        }
+      },
+      "token_parameter": "max_tokens"
+    },
+    "qwen": {
+      "model": "qwen-plus",
+      "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "extra_body": {
+        "enable_thinking": false
+      },
+      "token_parameter": "max_tokens"
+    }
+  },
+  "sample_sha256": "79d4e4c632666584dec2c626a12298abb2a52135129eaa2a057ffab020254efb",
+  "n_riddles": 300,
+  "annotations_sha256": "f974c6c2015b6579fbed745a9bd3fbd45657db9a14f287e50e3f3f1c0c382d37",
+  "primary_contrast": "B-C",
+  "groups": [
+    "A",
+    "B",
+    "C"
+  ],
+  "prompts": {
+    "B": "请综合使用以下线索求解：形——检查部件增删、组合、位置变化及左右、上下、包围关系；音——检查谐音、多音字及读音线索；义——检查字义、双关和谜面的语义约束。在内部核对候选字是否满足谜面，最后只输出一个汉字。",
+    "C": "请综合使用以下步骤求解：审题——阅读题目要求、条件限制、相关信息及前后关系；比较——考虑候选、方案及解答依据；检查——核对候选、排除矛盾和不合要求的答案。在内部核对候选字是否满足谜面，最后只输出一个汉字。"
+  },
+  "multiple_testing": "Primary B-C family: Holm across models; secondary B-A/C-A: separate Holm family"
+}

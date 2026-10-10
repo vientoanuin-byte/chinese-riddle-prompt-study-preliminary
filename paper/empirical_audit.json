@@ -1,0 +1,182 @@
+[
+  {
+    "round": "首轮",
+    "model": "deepseek",
+    "contrast": "B-C",
+    "n": 300,
+    "left": 0,
+    "right": 5,
+    "p": 0.0625,
+    "holm": 0.1875
+  },
+  {
+    "round": "首轮",
+    "model": "deepseek",
+    "contrast": "B-A",
+    "n": 300,
+    "left": 0,
+    "right": 23,
+    "p": 2.384185791015625e-07,
+    "holm": 1.430511474609375e-06
+  },
+  {
+    "round": "首轮",
+    "model": "deepseek",
+    "contrast": "C-A",
+    "n": 300,
+    "left": 0,
+    "right": 18,
+    "p": 7.62939453125e-06,
+    "holm": 3.814697265625e-05
+  },
+  {
+    "round": "首轮",
+    "model": "doubao",
+    "contrast": "B-C",
+    "n": 300,
+    "left": 11,
+    "right": 12,
+    "p": 1.0,
+    "holm": 1.0
+  },
+  {
+    "round": "首轮",
+    "model": "doubao",
+    "contrast": "B-A",
+    "n": 300,
+    "left": 5,
+    "right": 14,
+    "p": 0.063568115234375,
+    "holm": 0.2542724609375
+  },
+  {
+    "round": "首轮",
+    "model": "doubao",
+    "contrast": "C-A",
+    "n": 300,
+    "left": 6,
+    "right": 14,
+    "p": 0.11531829833984375,
+    "holm": 0.34595489501953125
+  },
+  {
+    "round": "首轮",
+    "model": "qwen",
+    "contrast": "B-C",
+    "n": 295,
+    "left": 4,
+    "right": 4,
+    "p": 1.0,
+    "holm": 1.0
+  },
+  {
+    "round": "首轮",
+    "model": "qwen",
+    "contrast": "B-A",
+    "n": 295,
+    "left": 1,
+    "right": 6,
+    "p": 0.125,
+    "holm": 0.34595489501953125
+  },
+  {
+    "round": "首轮",
+    "model": "qwen",
+    "contrast": "C-A",
+    "n": 295,
+    "left": 2,
+    "right": 7,
+    "p": 0.1796875,
+    "holm": 0.34595489501953125
+  },
+  {
+    "round": "复测",
+    "model": "deepseek",
+    "contrast": "B-C",
+    "n": 31,
+    "left": 0,
+    "right": 0,
+    "p": 1.0,
+    "holm": 1.0
+  },
+  {
+    "round": "复测",
+    "model": "deepseek",
+    "contrast": "B-A",
+    "n": 31,
+    "left": 0,
+    "right": 0,
+    "p": 1.0,
+    "holm": 1.0
+  },
+  {
+    "round": "复测",
+    "model": "deepseek",
+    "contrast": "C-A",
+    "n": 31,
+    "left": 0,
+    "right": 0,
+    "p": 1.0,
+    "holm": 1.0
+  },
+  {
+    "round": "复测",
+    "model": "doubao",
+    "contrast": "B-C",
+    "n": 31,
+    "left": 3,
+    "right": 0,
+    "p": 0.25,
+    "holm": 0.75
+  },
+  {
+    "round": "复测",
+    "model": "doubao",
+    "contrast": "B-A",
+    "n": 31,
+    "left": 3,
+    "right": 0,
+    "p": 0.25,
+    "holm": 1.0
+  },
+  {
+    "round": "复测",
+    "model": "doubao",
+    "contrast": "C-A",
+    "n": 31,
+    "left": 1,
+    "right": 1,
+    "p": 1.0,
+    "holm": 1.0
+  },
+  {
+    "round": "复测",
+    "model": "qwen",
+    "contrast": "B-C",
+    "n": 31,
+    "left": 2,
+    "right": 0,
+    "p": 0.5,
+    "holm": 1.0
+  },
+  {
+    "round": "复测",
+    "model": "qwen",
+    "contrast": "B-A",
+    "n": 31,
+    "left": 1,
+    "right": 0,
+    "p": 1.0,
+    "holm": 1.0
+  },
+  {
+    "round": "复测",
+    "model": "qwen",
+    "contrast": "C-A",
+    "n": 31,
+    "left": 1,
+    "right": 2,
+    "p": 1.0,
+    "holm": 1.0
+  }
+]

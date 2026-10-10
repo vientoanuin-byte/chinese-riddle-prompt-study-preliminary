@@ -1,0 +1,20 @@
+{
+  "n": 300,
+  "type_counts": {
+    "glyph": 280,
+    "glyph|meaning": 10,
+    "unknown": 3,
+    "glyph|pronunciation": 5,
+    "meaning": 2
+  },
+  "confidence_counts": {
+    "medium": 88,
+    "high": 161,
+    "low": 51
+  },
+  "sha256": "f974c6c2015b6579fbed745a9bd3fbd45657db9a14f287e50e3f3f1c0c382d37",
+  "annotation_method": "AI per-item review of question and gold answer, followed by a self-review of semantic-vs-component labels; no experimental model outputs used",
+  "human_verified": false,
+  "unknown_policy": "Retain unknown; never impute a confidently asserted mechanism",
+  "source_ledger_sha256": "f2952e6c48bd007f79630ad9f8c300fdb20b0b887ed90a74f3c3af9ca0075d87"
+}

@@ -1,0 +1,1262 @@
+{
+  "胃": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "蓧": {
+    "component_count": 2,
+    "radical_count": 6,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "持": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "鄳": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "门": {
+    "component_count": 1,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "辗": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "搅": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "屦": {
+    "component_count": 1,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "檑": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "韷": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "芽": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "簥": {
+    "component_count": 2,
+    "radical_count": 6,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "翅": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "支": {
+    "component_count": 2,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "膑": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "姻": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "啕": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "甬": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "绚": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "奖": {
+    "component_count": 1,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "村": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "档": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "岳": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "噩": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "呔": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "黛": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "仇": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "会": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "踸": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "旦": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "轋": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "朦": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "樽": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "空": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "观": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "省": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "崛": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "俺": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "功": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "旮": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "蚴": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "伶": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "考": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "玲": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "呻": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "罗": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "秕": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "嗦": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "榜": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "尹": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "著": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "鶃": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "臮": {
+    "component_count": 1,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "胩": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "衽": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "簕": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "掬": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "资": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "息": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "入": {
+    "component_count": 1,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "由": {
+    "component_count": 1,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "恩": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "怩": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "钤": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "乙": {
+    "component_count": 1,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "吲": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "鋵": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "隶": {
+    "component_count": 2,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "姜": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "本": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "霅": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "肿": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "逸": {
+    "component_count": 2,
+    "radical_count": 6,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "曦": {
+    "component_count": 2,
+    "radical_count": 6,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "九": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "尜": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "騺": {
+    "component_count": 2,
+    "radical_count": 7,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "讼": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "兕": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "错": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "锂": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "宫": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "仿": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "唇": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "眙": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "陮": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "摸": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "蜂": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "草": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "訉": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "厂": {
+    "component_count": 1,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "俚": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "靼": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "祧": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "团": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "子": {
+    "component_count": 2,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "枫": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "飞": {
+    "component_count": 1,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "漭": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "诗": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "贻": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "碃": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "嗯": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "大": {
+    "component_count": 2,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "醅": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "鸱": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "茁": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "妖": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "卑": {
+    "component_count": 1,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "宝": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "鵣": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "懿": {
+    "component_count": 2,
+    "radical_count": 6,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "頵": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "纳": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "覵": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "北": {
+    "component_count": 1,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "百": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "馥": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "黮": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "莓": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "醐": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "煨": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "席": {
+    "component_count": 1,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "景": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "虏": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "筅": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "渔": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "膳": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "掷": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "潭": {
+    "component_count": 1,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "攒": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "秉": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "处": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "殒": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "潜": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "莫": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "坦": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "请": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "署": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "窀": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "询": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "麎": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "峡": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "岩": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "人": {
+    "component_count": 1,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "福": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "蜈": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "郁": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "湔": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "酾": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "域": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "溢": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "伐": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "龚": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "窬": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "勉": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "倩": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "唬": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "体": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "置": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "正": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "廓": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "杰": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "渊": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "艆": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "舒": {
+    "component_count": 2,
+    "radical_count": 6,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "伎": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "桂": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "嫉": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "蓔": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "甸": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "焱": {
+    "component_count": 1,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "缈": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "宏": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "乍": {
+    "component_count": 1,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "镅": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "悃": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "队": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "剧": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "蛳": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "鐖": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "靥": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "樾": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "盇": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "音": {
+    "component_count": 2,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "月": {
+    "component_count": 2,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "泼": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "暝": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "鴽": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "筭": {
+    "component_count": 1,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "琵": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "闻": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "孝": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "泯": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "鍧": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "浔": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "醾": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "縆": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "荣": {
+    "component_count": 1,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "奋": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "河": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "轧": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "坂": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "若": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "睇": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "禺": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "驺": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "庾": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "闲": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "乏": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "娱": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "杠": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "逮": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "吃": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "傣": {
+    "component_count": 2,
+    "radical_count": 6,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "宁": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "虮": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "台": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "冁": {
+    "component_count": 2,
+    "radical_count": 9,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "绰": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "漏": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "誳": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "枭": {
+    "component_count": 1,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "扮": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "詟": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "保": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "卤": {
+    "component_count": 2,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "蓷": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "馈": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "镩": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "厝": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "菇": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "动": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "固": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "朱": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "笎": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "手": {
+    "component_count": 2,
+    "radical_count": 1,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "轓": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "鴫": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "杓": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "麂": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "芬": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "鞅": {
+    "component_count": 2,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "肘": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "做": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "鄙": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "箢": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "釜": {
+    "component_count": 2,
+    "radical_count": 2,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "鹛": {
+    "component_count": 2,
+    "radical_count": 4,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "两": {
+    "component_count": 1,
+    "radical_count": 3,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "滦": {
+    "component_count": 2,
+    "radical_count": 6,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  },
+  "券": {
+    "component_count": 2,
+    "radical_count": 5,
+    "structure_source": "local decomposition.jsonl: once/radical"
+  }
+}

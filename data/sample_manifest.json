@@ -1,0 +1,14 @@
+{
+  "source": "CC-Riddle/data/test_random.jsonl",
+  "source_sha256": "1b9e30588b62482cb290472ff3fda9a0f3dd1d7c634c850bed19c7fdae6fd827",
+  "population_n": 5411,
+  "sample_n": 300,
+  "seed": 20261009,
+  "sampling": "source",
+  "source_allocation": {
+    "gen": 88,
+    "human": 212
+  },
+  "sample_sha256": "79d4e4c632666584dec2c626a12298abb2a52135129eaa2a057ffab020254efb",
+  "unknown_types": 300
+}
